@@ -11,4 +11,3 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://profile-counter.glitch.me/swarrup17/count.svg?"  />
 </div>
-![snake gif](https://github.com/swarrup17/swarrup17/blob/output/github-contribution-grid-snake.svg)
