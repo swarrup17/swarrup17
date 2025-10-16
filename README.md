@@ -56,16 +56,13 @@ You can click the Preview link to take a look at your changes.
 ## 🛡️ Learning Progress
 
 **Digital Forensics**  \  
-[![Digital Forensics](https://progress-bar.dev/65/?title=Digital%20Forensics)](https://csrc.nist.gov/publications/detail/sp/800-86/final)  
-*Official resources: NIST SP 800-86 and SANS Digital Forensics.*
+## 🛡️ Learning Progress
 
-**Bug Bounty**  \  
-[![Bug Bounty](https://progress-bar.dev/50/?title=Bug%20Bounty)](https://www.hackerone.com/resources)  
-*Key resources: HackerOne, Bugcrowd, OWASP.*
+[![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-65%25-blue?style=for-the-badge&logo=forensic-science&logoColor=white)](https://csrc.nist.gov/publications/detail/sp/800-86/final)
 
-**OSCP / Ethical Hacking**  \  
-[![OSCP](https://progress-bar.dev/30/?title=OSCP)](https://www.offensive-security.com/pwk-oscp/)  
-*Official OSCP/PWK (Offensive Security) course page.*
+[![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-50%25-orange?style=for-the-badge&logo=hackerone&logoColor=white)](https://www.hackerone.com/resources)
+
+[![OSCP / Ethical Hacking](https://img.shields.io/badge/OSCP-30%25-red?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/pwk-oscp/)
 
 ---
 
