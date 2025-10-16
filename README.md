@@ -54,11 +54,12 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🛡️ Learning Progress
-![Bug Bounty](https://assets-global.website-files.com/5e05f5d8d8e9fc3c4b0d803c/5f0d6f2b6f37e75c5b8a6c82_HackerOne-Logo-PNG.png) Bug Bounty
+![Random Bug](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cicada_%28Tibicen_chloromera%29.jpg) Bug
 
-![Digital Forensics](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Forensic_magnifying_glass_icon.png/800px-Forensic_magnifying_glass_icon.png) Digital Forensics
+https://images.unsplash.com/photo-1556157382-97eda2d62296?w=800&auto=format&fit=crop) OSCP / Ethical Hacking
 
-![OSCP / Ethical Hacking](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Offensive_Security_Logo.svg/800px-Offensive_Security_Logo.svg.png) OSCP / Ethical Hacking
+![Digital Forensics](https://upload.wikimedia.org/wikipedia/commons/5/5e/Forensic_magnifying_glass_icon.png) Digital Forensics
+
 
 
 
