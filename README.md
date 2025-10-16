@@ -54,11 +54,11 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🛡️ Learning Progress
-![Random Bug](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cicada_%28Tibicen_chloromera%29.jpg) Bug
+[![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-65%25-blue?style=for-the-badge&logo=search&logoColor=white)](https://csrc.nist.gov/publications/detail/sp/800-86/final) 
 
-https://images.unsplash.com/photo-1556157382-97eda2d62296?w=800&auto=format&fit=crop) OSCP / Ethical Hacking
+[![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-50%25-orange?style=for-the-badge&logo=hackerone&logoColor=white)](https://www.hackerone.com/resources) 
 
-![Digital Forensics](https://upload.wikimedia.org/wikipedia/commons/5/5e/Forensic_magnifying_glass_icon.png) Digital Forensics
+[![OSCP / Ethical Hacking](https://img.shields.io/badge/OSCP-30%25-red?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/pwk-oscp/)
 
 
 
