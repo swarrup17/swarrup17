@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile views](https://komarev.com/ghpvc/?username=swarrup17&label=Profile%20views&color=0e75b6&style=flat)
 
-![Swarup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarrup17&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarrup17&layout=compact&theme=radical)
+
 
 ---
 
