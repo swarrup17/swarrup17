@@ -54,9 +54,12 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🛡️ Learning Progress
-[![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Active-orange?style=for-the-badge&logo=hackerone&logoColor=white)](https://www.hackerone.com/)
-[![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-65%25-blue?style=for-the-badge&logo=search&logoColor=white)](https://tryhackme.com/room/introdigitalforensics)
-[![OSCP / Ethical Hacking](https://img.shields.io/badge/OSCP-30%25-red?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offsec.com/courses/pen-200/)
+![Bug Bounty](https://assets-global.website-files.com/5e05f5d8d8e9fc3c4b0d803c/5f0d6f2b6f37e75c5b8a6c82_HackerOne-Logo-PNG.png) Bug Bounty
+
+![Digital Forensics](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Forensic_magnifying_glass_icon.png/800px-Forensic_magnifying_glass_icon.png) Digital Forensics
+
+![OSCP / Ethical Hacking](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Offensive_Security_Logo.svg/800px-Offensive_Security_Logo.svg.png) OSCP / Ethical Hacking
+
 
 
 ## 📫 Connect With Me
