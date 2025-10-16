@@ -69,17 +69,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 📚 Official Documentation & Resources (quick links)
-
-- **Digital Forensics (NIST SP 800-86)** — https://csrc.nist.gov/publications/detail/sp/800-86/final  
-- **SANS Digital Forensics** — https://www.sans.org/cybersecurity-focus-areas/digital-forensics-incident-response  
-- **HackerOne Resources (Bug Bounty)** — https://www.hackerone.com/resources  
-- **Bugcrowd Resources** — https://www.bugcrowd.com/resources/  
-- **OWASP Cheat Sheet Series & Web Security Testing Guide** — https://cheatsheetseries.owasp.org/  |  https://owasp.org/www-project-web-security-testing-guide/  
-- **Offensive Security (OSCP / PEN-200 / PWK)** — https://www.offensive-security.com/pwk-oscp/
-
----
-
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/swarrup17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
