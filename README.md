@@ -8,5 +8,5 @@
 swarrup17/swarrup17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![visitor count](https://profile-counter.glitch.me/swarrup17/count.svg)
+[![Hits](https://hits.dwyl.com/swarrup17/swarrup17.svg?style=flat-square)](http://hits.dwyl.com/swarrup17/swarrup17)
 
