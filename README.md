@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🧰 Tech Stack
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
 
 ### 🖥️ Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
