@@ -16,13 +16,13 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile views](https://komarev.com/ghpvc/?username=swarrup17&label=Profile%20views&color=0e75b6&style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarrup17&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarrup17&layout=compact&theme=radical&hide=Cython)
+
 
 
 ---
 
 ## 🧰 Tech Stack
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 
 ### 🖥️ Programming Languages
