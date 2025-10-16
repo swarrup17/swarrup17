@@ -55,16 +55,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛡️ Learning Progress
 
-**Digital Forensics**  \  
-## 🛡️ Learning Progress
-
-[![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-65%25-blue?style=for-the-badge&logo=forensic-science&logoColor=white)](https://csrc.nist.gov/publications/detail/sp/800-86/final)
+[![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-65%25-blue?style=for-the-badge&logo=search&logoColor=white)](https://csrc.nist.gov/publications/detail/sp/800-86/final)
 
 [![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-50%25-orange?style=for-the-badge&logo=hackerone&logoColor=white)](https://www.hackerone.com/resources)
 
 [![OSCP / Ethical Hacking](https://img.shields.io/badge/OSCP-30%25-red?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/pwk-oscp/)
-
----
 
 ## 📫 Connect With Me
 <p align="center">
