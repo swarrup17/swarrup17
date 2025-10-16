@@ -55,23 +55,37 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛡️ Learning Progress
 
-**Digital Forensics**  
-![Digital Forensics](https://progress-bar.dev/65/?title=Digital%20Forensics)
+**Digital Forensics**  \  
+[![Digital Forensics](https://progress-bar.dev/65/?title=Digital%20Forensics)](https://csrc.nist.gov/publications/detail/sp/800-86/final)  
+*Official resources: NIST SP 800-86 and SANS Digital Forensics.*
 
-**Bug Bounty**  
-![Bug Bounty](https://progress-bar.dev/50/?title=Bug%20Bounty)
+**Bug Bounty**  \  
+[![Bug Bounty](https://progress-bar.dev/50/?title=Bug%20Bounty)](https://www.hackerone.com/resources)  
+*Key resources: HackerOne, Bugcrowd, OWASP.*
 
-**OSCP / Ethical Hacking**  
-![OSCP](https://progress-bar.dev/30/?title=OSCP)
+**OSCP / Ethical Hacking**  \  
+[![OSCP](https://progress-bar.dev/30/?title=OSCP)](https://www.offensive-security.com/pwk-oscp/)  
+*Official OSCP/PWK (Offensive Security) course page.*
+
+---
+
+## 📚 Official Documentation & Resources (quick links)
+
+- **Digital Forensics (NIST SP 800-86)** — https://csrc.nist.gov/publications/detail/sp/800-86/final  
+- **SANS Digital Forensics** — https://www.sans.org/cybersecurity-focus-areas/digital-forensics-incident-response  
+- **HackerOne Resources (Bug Bounty)** — https://www.hackerone.com/resources  
+- **Bugcrowd Resources** — https://www.bugcrowd.com/resources/  
+- **OWASP Cheat Sheet Series & Web Security Testing Guide** — https://cheatsheetseries.owasp.org/  |  https://owasp.org/www-project-web-security-testing-guide/  
+- **Offensive Security (OSCP / PEN-200 / PWK)** — https://www.offensive-security.com/pwk-oscp/
 
 ---
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://github.com/swarrup17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/swarup-dahal-b9a65225a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_swarup_dahal_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/swarupd.17"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://github.com/swarrup17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/swarup-dahal-b9a65225a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/_swarup_dahal_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/swarupd.17"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 </div>
