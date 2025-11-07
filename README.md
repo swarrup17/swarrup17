@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 # 👋 Hi, I'm Swarup Dahal  
-💻 Full-Stack Developer | 🎨 UI/UX Designer | 🤖 AI/ML & Cyber Security Enthusiast | 🚀 Tech Enthusiast  
+💻 Full-Stack Developer | 🎨 UI/UX Designer | 🤖 AI/ML & Cyber Security Enthusiast | 🧪 QA | 🚀 Tech Enthusiast  
 
 ![Profile views](https://komarev.com/ghpvc/?username=swarrup17&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 ### 🖥️ Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -49,6 +50,10 @@ You can click the Preview link to take a look at your changes.
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![JDK](https://img.shields.io/badge/JDK-007396?style=for-the-badge&logo=java&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 
 ---
 
@@ -70,6 +75,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
+---
 
 ## 📫 Connect With Me
 <p align="center">
