@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @swarrup17
-- 👀 I’m interested in ethical hacking but I don't know how to hack.
+- 👋 Hi, I’m Swarup Dahal
 - 🌱 I’m currently learning CSIT
-- 💞️ I’m looking to collaborate on IT companies
+- 💞️ I’m looking to collaborate with IT companies
 - 📫 How to reach me : facebook: Swarup Dahal. 
 
 <!---
