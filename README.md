@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Swarup Dahal
 - 🌱 I’m currently learning CSIT
 - 💞️ I’m looking to collaborate with IT companies
-- 📫 How to reach me : facebook: Swarup Dahal. 
 
 <!---
 swarrup17/swarrup17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
