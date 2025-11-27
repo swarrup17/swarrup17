@@ -64,24 +64,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🛡️ Learning Progress
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://www.malwarebytes.com/wp-content/uploads/sites/2/2017/08/shutterstock_442334347.jpg" width="140" alt="Digital Forensics"/><br/>
-      <strong>Digital Forensics</strong>
-    </td>
-    <td align="center">
-      <img src="https://blog.open-xchange.com/hubfs/Facebook-includes-third-party-apps-and-websites-to-bug-bounty-program-jpg.jpeg" width="140" alt="Bug Bounty"/><br/>
-      <strong>Bug Bounty</strong>
-    </td>
-    <td align="center">
-      <img src="https://s3.ap-south-1.amazonaws.com/webasha-blog/uploads/images/202505/image_750x_6814abe288031.webp" width="140" alt="OSCP / Ethical Hacking"/><br/>
-      <strong>OSCP / Ethical Hacking</strong>
-    </td>
-  </tr>
-</table>
+#🛡️ Learning Progress
 
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ---
 
 ## 📫 Connect With Me
