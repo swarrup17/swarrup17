@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 # 👋 Hi, I'm Swarup Dahal  
-💻 Full-Stack Developer | 🎨 UI/UX Designer | 🤖 AI/ML & Cyber Security Enthusiast | 🧪 QA | 🚀 Tech Enthusiast  
+💻 Full-Stack Developer | 🎨 UI/UX Designer | 🤖 AI/ML Enthusiaste | 🧪 QA | 🚀 Tech Enthusiast  
 
 ![Profile views](https://komarev.com/ghpvc/?username=swarrup17&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-#🛡️ Learning Progress
+🛡️ Learning Progress
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
