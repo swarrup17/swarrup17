@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 # 👋 Hi, I'm Swarup Dahal  
-💻 Full-Stack Developer | 🎨 UI/UX Designer | 🤖 AI/ML Enthusiaste | 🧪 QA and Data | 🚀 Tech Enthusiast  
+QA and Data| 🤖 AI/ML Enthusiaste | 🚀 Tech Enthusiast  
 
 ![Profile views](https://komarev.com/ghpvc/?username=swarrup17&label=Profile%20views&color=0e75b6&style=flat)
 
