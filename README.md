@@ -1,7 +1,13 @@
-<div align="center">
+- 👋 Hi, I’m Swarup Dahal
+- 🌱 I’m gradiuated CSIT Student
+- 💞️ I’m looking forwward to collaborate with IT companies
 
-# 👋 Hi, I'm Swarup Dahal  
-QA and Data | 🤖 AI/ML Enthusiast | 🚀 Tech Enthusiast  
+<!---
+swarrup17/swarrup17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=swarrup17&label=Profile%20views&color=0e75b6&style=flat)
 
