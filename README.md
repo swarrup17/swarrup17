@@ -1,26 +1,22 @@
-- 👋 Hi, I’m Swarup Dahal
-- 🌱 I’m currently learning CSIT
-- 💞️ I’m looking to collaborate with IT companies
-
-<!---
-swarrup17/swarrup17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <div align="center">
 
 # 👋 Hi, I'm Swarup Dahal  
-QA and Data| 🤖 AI/ML Enthusiaste | 🚀 Tech Enthusiast  
+QA and Data | 🤖 AI/ML Enthusiast | 🚀 Tech Enthusiast  
 
 ![Profile views](https://komarev.com/ghpvc/?username=swarrup17&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🐍 Contribution Snake
 
-<!-- OR for dark mode -->
-![snake gif](https://raw.githubusercontent.com/swarrup17/swarrup17/output/snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swarrup17/swarrup17/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swarrup17/swarrup17/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/swarrup17/swarrup17/output/snake.svg">
+</picture>
 
 ---
+
 ## 🧰 Tech Stack
+
 ### 🖥️ Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -57,17 +53,17 @@ QA and Data| 🤖 AI/ML Enthusiaste | 🚀 Tech Enthusiast
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 
-
-
 ---
 
-🛡️ Learning Progress
+## 🛡️ Learning Progress
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+
 ---
 
 ## 📫 Connect With Me
+
 <p align="center">
   <a href="https://github.com/swarrup17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/swarup-dahal-b9a65225a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -75,4 +71,4 @@ QA and Data| 🤖 AI/ML Enthusiaste | 🚀 Tech Enthusiast
   <a href="https://www.facebook.com/swarupd.17"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
-
+</div>
